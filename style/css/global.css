@@ -832,7 +832,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   position: relative;
   width: 280px;
   height: 280px;
-  background-image: url("../img/CHRISSI\ BOYS\ LOGO\ white\ 280px.png");
+  background-image: url("../img/");
  
 }
 
@@ -1950,6 +1950,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     margin-top: 110px;
   }
   .hero__photo {
+    position: relative;
     width: 220px;
     height: 220px;
   }
@@ -2071,6 +2072,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     font-size: 19px;
   }
   .hero__photo {
+    position: relative;
     width: 200px;
     height: 200px;
   }
@@ -2152,6 +2154,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     height: auto;
   }
   .hero__photo {
+    position: relative;
     width: 190px;
     height: 190px;
   }
@@ -2188,6 +2191,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     font-size: 35px;
   }
   .hero__photo {
+    position: relative;
     width: 180px;
     height: 180px;
   }
@@ -2234,6 +2238,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   }
   .hero__photo {
     margin: 0 auto;
+    position: relative;
     width: 300px;
     height: 300px;
   }
@@ -2364,6 +2369,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     font-size: 35px;
   }
   .hero__photo {
+    position: relative;
     width: 250px;
     height: 250px;
   }
@@ -2417,6 +2423,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 \*------------------------------------*/
 @media (max-width: 400px) {
   .hero__photo {
+    position: relative;
     width: 200px;
     height: 200px;
   }
@@ -2447,6 +2454,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     float: right;
   }
   .hero__photo {
+    position: relative;
     width: 200px;
     height: 200px;
   }
@@ -2471,6 +2479,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     float: right;
   }
   .hero__photo {
+    position: relative;
     width: 200px;
     height: 200px;
   }
@@ -2495,6 +2504,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     float: right;
   }
   .hero__photo {
+    position: relative;
     width: 200px;
     height: 200px;
   }
@@ -2519,6 +2529,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     float: right;
   }
   .hero__photo {
+    position: relative;
     width: 200px;
     height: 200px;
   }
@@ -2549,6 +2560,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     float: right;
   }
   .hero__photo {
+    position: relative;
     width: 190px;
     height: 190px;
   }
@@ -2577,6 +2589,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     float: right;
   }
   .hero__photo {
+    position: relative;
     width: 170px;
     height: 170px;
   }
@@ -2607,6 +2620,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     float: right;
   }
   .hero__photo {
+    position: relative;
     width: 160px;
     height: 160px;
   }
@@ -2645,6 +2659,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     margin-top: 70px;
   }
   .hero__photo {
+    position: relative;
     width: 260px;
     height: 260px;
   }
@@ -2700,6 +2715,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     float: right;
   }
   .hero__photo {
+    position: relative;
     width: 200px;
     height: 200px;
   }
