@@ -832,9 +832,8 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   position: relative;
   width: 280px;
   height: 280px;
-  border-radius: 150px;
-  background-image: url("../img/hero_photo.jpg");
-  background-size: cover;
+  background-image: url("../img/CHRISSI\ BOYS\ LOGO\ white\ 280px.png");
+ 
 }
 
 .hero__hat {
@@ -1073,6 +1072,12 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   background-image: url("../img/exp/exp_NODEJS.svg");
 }
 
+.experience__icon--mongodb {
+  background-image: url("../img/exp/exp_mongodb.svg");
+}
+.experience__icon--adobexd {
+  background-image: url("../img/exp/exp_adobe-xd.svg");
+}
 .experience__icon-description {
   display: block;
   position: absolute;
@@ -1891,7 +1896,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 .footer__image {
   width: 350px;
   height: 100px;
-  background-image: url("../img/footer_image.png");
+  background-image: url("../img/CHRISSI\ BOYS\ LOGO.png");
   background-size: contain;
   background-position: center right;
   background-repeat: no-repeat;
